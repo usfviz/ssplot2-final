@@ -1,4 +1,4 @@
-setwd("~/Desktop/data_viz/ssplot2-")
+# setwd("~/Desktop/data_viz/ssplot2-")
 
 packages <- c('shiny', 'shinydashboard','geojsonio', 
               "leaflet", "jsonlite", "rgdal", 
