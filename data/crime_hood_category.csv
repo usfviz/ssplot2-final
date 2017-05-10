@@ -1,0 +1,1110 @@
+hood,category,count
+Bayview,OTHER OFFENSES,1680
+Bayview,ASSAULT,1295
+Bayview,LARCENY/THEFT,881
+Bayview,NON-CRIMINAL,733
+Bayview,VEHICLE THEFT,706
+Bayview,VANDALISM,547
+Bayview,SUSPICIOUS OCC,391
+Bayview,WARRANTS,376
+Bayview,MISSING PERSON,316
+Bayview,DRUG/NARCOTIC,248
+Bayview,BURGLARY,239
+Bayview,WEAPON LAWS,235
+Bayview,ROBBERY,205
+Bayview,SECONDARY CODES,177
+Bayview,RECOVERED VEHICLE,144
+Bayview,TRESPASS,59
+Bayview,FRAUD,58
+Bayview,"SEX OFFENSES, FORCIBLE",55
+Bayview,ARSON,54
+Bayview,KIDNAPPING,46
+Bayview,STOLEN PROPERTY,33
+Bayview,RUNAWAY,23
+Bayview,FORGERY/COUNTERFEITING,22
+Bayview,EMBEZZLEMENT,20
+Bayview,LIQUOR LAWS,20
+Bayview,DISORDERLY CONDUCT,20
+Bayview,DRUNKENNESS,17
+Bayview,DRIVING UNDER THE INFLUENCE,14
+Bayview,BRIBERY,12
+Bayview,FAMILY OFFENSES,4
+Bayview,GAMBLING,4
+Bayview,EXTORTION,4
+Bayview,SUICIDE,3
+Bayview,BAD CHECKS,2
+Bayview,"SEX OFFENSES, NON FORCIBLE",1
+Bernal Heights,LARCENY/THEFT,523
+Bernal Heights,OTHER OFFENSES,413
+Bernal Heights,ASSAULT,372
+Bernal Heights,NON-CRIMINAL,315
+Bernal Heights,VEHICLE THEFT,263
+Bernal Heights,VANDALISM,179
+Bernal Heights,BURGLARY,174
+Bernal Heights,SUSPICIOUS OCC,131
+Bernal Heights,MISSING PERSON,120
+Bernal Heights,ROBBERY,85
+Bernal Heights,WARRANTS,77
+Bernal Heights,SECONDARY CODES,42
+Bernal Heights,WEAPON LAWS,38
+Bernal Heights,DRUG/NARCOTIC,35
+Bernal Heights,FRAUD,33
+Bernal Heights,TRESPASS,30
+Bernal Heights,RECOVERED VEHICLE,26
+Bernal Heights,STOLEN PROPERTY,15
+Bernal Heights,"SEX OFFENSES, FORCIBLE",15
+Bernal Heights,FORGERY/COUNTERFEITING,10
+Bernal Heights,DRUNKENNESS,8
+Bernal Heights,DRIVING UNDER THE INFLUENCE,7
+Bernal Heights,KIDNAPPING,7
+Bernal Heights,LIQUOR LAWS,7
+Bernal Heights,DISORDERLY CONDUCT,7
+Bernal Heights,ARSON,5
+Bernal Heights,EMBEZZLEMENT,1
+Bernal Heights,TREA,1
+Bernal Heights,SUICIDE,1
+Bernal Heights,EXTORTION,1
+Bernal Heights,RUNAWAY,1
+Bernal Heights,LOITERING,1
+Bernal Heights,BRIBERY,1
+Castro/Upper Market,LARCENY/THEFT,967
+Castro/Upper Market,NON-CRIMINAL,599
+Castro/Upper Market,OTHER OFFENSES,461
+Castro/Upper Market,ASSAULT,399
+Castro/Upper Market,VANDALISM,283
+Castro/Upper Market,VEHICLE THEFT,257
+Castro/Upper Market,BURGLARY,227
+Castro/Upper Market,WARRANTS,202
+Castro/Upper Market,SUSPICIOUS OCC,200
+Castro/Upper Market,MISSING PERSON,120
+Castro/Upper Market,DRUG/NARCOTIC,104
+Castro/Upper Market,ROBBERY,96
+Castro/Upper Market,FRAUD,91
+Castro/Upper Market,TRESPASS,66
+Castro/Upper Market,WEAPON LAWS,42
+Castro/Upper Market,SECONDARY CODES,42
+Castro/Upper Market,STOLEN PROPERTY,23
+Castro/Upper Market,"SEX OFFENSES, FORCIBLE",22
+Castro/Upper Market,DRUNKENNESS,21
+Castro/Upper Market,RECOVERED VEHICLE,16
+Castro/Upper Market,DISORDERLY CONDUCT,14
+Castro/Upper Market,FORGERY/COUNTERFEITING,12
+Castro/Upper Market,DRIVING UNDER THE INFLUENCE,11
+Castro/Upper Market,ARSON,7
+Castro/Upper Market,LIQUOR LAWS,5
+Castro/Upper Market,KIDNAPPING,4
+Castro/Upper Market,EMBEZZLEMENT,4
+Castro/Upper Market,BRIBERY,1
+Castro/Upper Market,FAMILY OFFENSES,1
+Castro/Upper Market,"SEX OFFENSES, NON FORCIBLE",1
+Castro/Upper Market,PROSTITUTION,1
+Castro/Upper Market,SUICIDE,1
+Chinatown,LARCENY/THEFT,571
+Chinatown,NON-CRIMINAL,247
+Chinatown,OTHER OFFENSES,169
+Chinatown,ASSAULT,150
+Chinatown,VANDALISM,125
+Chinatown,ROBBERY,57
+Chinatown,SUSPICIOUS OCC,55
+Chinatown,MISSING PERSON,53
+Chinatown,BURGLARY,45
+Chinatown,FRAUD,40
+Chinatown,WARRANTS,38
+Chinatown,VEHICLE THEFT,37
+Chinatown,DRUG/NARCOTIC,27
+Chinatown,SECONDARY CODES,21
+Chinatown,TRESPASS,17
+Chinatown,WEAPON LAWS,15
+Chinatown,PROSTITUTION,14
+Chinatown,STOLEN PROPERTY,13
+Chinatown,ARSON,10
+Chinatown,DRUNKENNESS,9
+Chinatown,"SEX OFFENSES, FORCIBLE",8
+Chinatown,FORGERY/COUNTERFEITING,6
+Chinatown,RECOVERED VEHICLE,3
+Chinatown,EMBEZZLEMENT,3
+Chinatown,EXTORTION,3
+Chinatown,DRIVING UNDER THE INFLUENCE,2
+Chinatown,KIDNAPPING,2
+Chinatown,DISORDERLY CONDUCT,1
+Chinatown,LIQUOR LAWS,1
+Crocker Amazon,OTHER OFFENSES,120
+Crocker Amazon,ASSAULT,106
+Crocker Amazon,LARCENY/THEFT,68
+Crocker Amazon,NON-CRIMINAL,65
+Crocker Amazon,VANDALISM,46
+Crocker Amazon,MISSING PERSON,41
+Crocker Amazon,VEHICLE THEFT,41
+Crocker Amazon,SUSPICIOUS OCC,33
+Crocker Amazon,WARRANTS,27
+Crocker Amazon,BURGLARY,21
+Crocker Amazon,ROBBERY,19
+Crocker Amazon,DRUG/NARCOTIC,16
+Crocker Amazon,WEAPON LAWS,12
+Crocker Amazon,SECONDARY CODES,10
+Crocker Amazon,FRAUD,9
+Crocker Amazon,STOLEN PROPERTY,8
+Crocker Amazon,RECOVERED VEHICLE,8
+Crocker Amazon,KIDNAPPING,6
+Crocker Amazon,"SEX OFFENSES, FORCIBLE",5
+Crocker Amazon,TRESPASS,4
+Crocker Amazon,DRIVING UNDER THE INFLUENCE,3
+Crocker Amazon,EMBEZZLEMENT,3
+Crocker Amazon,FORGERY/COUNTERFEITING,2
+Crocker Amazon,RUNAWAY,2
+Crocker Amazon,EXTORTION,2
+Crocker Amazon,SUICIDE,2
+Crocker Amazon,GAMBLING,2
+Crocker Amazon,DISORDERLY CONDUCT,1
+Crocker Amazon,ARSON,1
+Crocker Amazon,LIQUOR LAWS,1
+Crocker Amazon,DRUNKENNESS,1
+Diamond Heights,LARCENY/THEFT,62
+Diamond Heights,OTHER OFFENSES,47
+Diamond Heights,NON-CRIMINAL,40
+Diamond Heights,BURGLARY,22
+Diamond Heights,VEHICLE THEFT,17
+Diamond Heights,VANDALISM,15
+Diamond Heights,ASSAULT,11
+Diamond Heights,MISSING PERSON,10
+Diamond Heights,SUSPICIOUS OCC,8
+Diamond Heights,DRUG/NARCOTIC,5
+Diamond Heights,ROBBERY,4
+Diamond Heights,"SEX OFFENSES, FORCIBLE",3
+Diamond Heights,SECONDARY CODES,3
+Diamond Heights,WARRANTS,2
+Diamond Heights,TRESPASS,2
+Diamond Heights,FRAUD,1
+Diamond Heights,RUNAWAY,1
+Diamond Heights,ARSON,1
+Diamond Heights,FORGERY/COUNTERFEITING,1
+Downtown/Civic Center,LARCENY/THEFT,4693
+Downtown/Civic Center,NON-CRIMINAL,2632
+Downtown/Civic Center,OTHER OFFENSES,2341
+Downtown/Civic Center,ASSAULT,2214
+Downtown/Civic Center,DRUG/NARCOTIC,1442
+Downtown/Civic Center,WARRANTS,1229
+Downtown/Civic Center,SUSPICIOUS OCC,853
+Downtown/Civic Center,VANDALISM,824
+Downtown/Civic Center,ROBBERY,637
+Downtown/Civic Center,BURGLARY,405
+Downtown/Civic Center,VEHICLE THEFT,387
+Downtown/Civic Center,MISSING PERSON,318
+Downtown/Civic Center,FRAUD,312
+Downtown/Civic Center,TRESPASS,265
+Downtown/Civic Center,WEAPON LAWS,219
+Downtown/Civic Center,SECONDARY CODES,177
+Downtown/Civic Center,DISORDERLY CONDUCT,156
+Downtown/Civic Center,STOLEN PROPERTY,125
+Downtown/Civic Center,FORGERY/COUNTERFEITING,108
+Downtown/Civic Center,"SEX OFFENSES, FORCIBLE",105
+Downtown/Civic Center,RECOVERED VEHICLE,76
+Downtown/Civic Center,DRUNKENNESS,70
+Downtown/Civic Center,KIDNAPPING,32
+Downtown/Civic Center,PROSTITUTION,29
+Downtown/Civic Center,DRIVING UNDER THE INFLUENCE,25
+Downtown/Civic Center,EMBEZZLEMENT,23
+Downtown/Civic Center,ARSON,22
+Downtown/Civic Center,LIQUOR LAWS,20
+Downtown/Civic Center,BRIBERY,9
+Downtown/Civic Center,SUICIDE,7
+Downtown/Civic Center,LOITERING,6
+Downtown/Civic Center,FAMILY OFFENSES,5
+Downtown/Civic Center,RUNAWAY,5
+Downtown/Civic Center,GAMBLING,4
+Downtown/Civic Center,"SEX OFFENSES, NON FORCIBLE",2
+Downtown/Civic Center,BAD CHECKS,2
+Downtown/Civic Center,EXTORTION,2
+Downtown/Civic Center,PORNOGRAPHY/OBSCENE MAT,1
+Excelsior,OTHER OFFENSES,452
+Excelsior,ASSAULT,393
+Excelsior,LARCENY/THEFT,387
+Excelsior,NON-CRIMINAL,258
+Excelsior,VEHICLE THEFT,251
+Excelsior,MISSING PERSON,230
+Excelsior,VANDALISM,210
+Excelsior,SUSPICIOUS OCC,133
+Excelsior,ROBBERY,114
+Excelsior,BURGLARY,106
+Excelsior,WARRANTS,74
+Excelsior,SECONDARY CODES,70
+Excelsior,DRUG/NARCOTIC,56
+Excelsior,WEAPON LAWS,37
+Excelsior,FRAUD,35
+Excelsior,RECOVERED VEHICLE,31
+Excelsior,"SEX OFFENSES, FORCIBLE",28
+Excelsior,STOLEN PROPERTY,16
+Excelsior,KIDNAPPING,10
+Excelsior,TRESPASS,9
+Excelsior,FORGERY/COUNTERFEITING,9
+Excelsior,DRIVING UNDER THE INFLUENCE,7
+Excelsior,DRUNKENNESS,6
+Excelsior,RUNAWAY,5
+Excelsior,BRIBERY,5
+Excelsior,ARSON,4
+Excelsior,EXTORTION,3
+Excelsior,SUICIDE,3
+Excelsior,FAMILY OFFENSES,3
+Excelsior,BAD CHECKS,2
+Excelsior,"SEX OFFENSES, NON FORCIBLE",2
+Excelsior,EMBEZZLEMENT,1
+Excelsior,DISORDERLY CONDUCT,1
+Excelsior,PROSTITUTION,1
+Financial District,LARCENY/THEFT,3091
+Financial District,NON-CRIMINAL,1085
+Financial District,OTHER OFFENSES,854
+Financial District,ASSAULT,685
+Financial District,VANDALISM,454
+Financial District,BURGLARY,312
+Financial District,WARRANTS,305
+Financial District,SUSPICIOUS OCC,277
+Financial District,PROSTITUTION,259
+Financial District,FRAUD,255
+Financial District,ROBBERY,225
+Financial District,VEHICLE THEFT,167
+Financial District,TRESPASS,122
+Financial District,MISSING PERSON,110
+Financial District,DRUG/NARCOTIC,95
+Financial District,WEAPON LAWS,68
+Financial District,STOLEN PROPERTY,59
+Financial District,FORGERY/COUNTERFEITING,57
+Financial District,"SEX OFFENSES, FORCIBLE",51
+Financial District,SECONDARY CODES,50
+Financial District,DRUNKENNESS,25
+Financial District,DISORDERLY CONDUCT,22
+Financial District,EMBEZZLEMENT,18
+Financial District,ARSON,16
+Financial District,DRIVING UNDER THE INFLUENCE,15
+Financial District,RECOVERED VEHICLE,14
+Financial District,KIDNAPPING,7
+Financial District,LOITERING,7
+Financial District,BAD CHECKS,4
+Financial District,RUNAWAY,4
+Financial District,SUICIDE,3
+Financial District,EXTORTION,2
+Financial District,FAMILY OFFENSES,1
+Financial District,BRIBERY,1
+Financial District,LIQUOR LAWS,1
+Financial District,"SEX OFFENSES, NON FORCIBLE",1
+Financial District,PORNOGRAPHY/OBSCENE MAT,1
+Financial District,TREA,1
+Glen Park,LARCENY/THEFT,149
+Glen Park,OTHER OFFENSES,88
+Glen Park,NON-CRIMINAL,79
+Glen Park,VEHICLE THEFT,57
+Glen Park,BURGLARY,41
+Glen Park,ASSAULT,40
+Glen Park,VANDALISM,31
+Glen Park,MISSING PERSON,22
+Glen Park,SUSPICIOUS OCC,21
+Glen Park,FRAUD,9
+Glen Park,SECONDARY CODES,7
+Glen Park,WARRANTS,6
+Glen Park,"SEX OFFENSES, FORCIBLE",4
+Glen Park,TRESPASS,4
+Glen Park,DRIVING UNDER THE INFLUENCE,3
+Glen Park,ROBBERY,3
+Glen Park,DRUG/NARCOTIC,2
+Glen Park,RECOVERED VEHICLE,2
+Glen Park,WEAPON LAWS,1
+Glen Park,LIQUOR LAWS,1
+Glen Park,LOITERING,1
+Golden Gate Park,LARCENY/THEFT,892
+Golden Gate Park,NON-CRIMINAL,276
+Golden Gate Park,OTHER OFFENSES,210
+Golden Gate Park,DRUG/NARCOTIC,76
+Golden Gate Park,VANDALISM,74
+Golden Gate Park,ASSAULT,66
+Golden Gate Park,WARRANTS,58
+Golden Gate Park,SUSPICIOUS OCC,53
+Golden Gate Park,VEHICLE THEFT,44
+Golden Gate Park,MISSING PERSON,28
+Golden Gate Park,ROBBERY,25
+Golden Gate Park,BURGLARY,23
+Golden Gate Park,FRAUD,17
+Golden Gate Park,WEAPON LAWS,13
+Golden Gate Park,STOLEN PROPERTY,12
+Golden Gate Park,DRIVING UNDER THE INFLUENCE,10
+Golden Gate Park,TRESPASS,6
+Golden Gate Park,SECONDARY CODES,6
+Golden Gate Park,RECOVERED VEHICLE,5
+Golden Gate Park,"SEX OFFENSES, FORCIBLE",5
+Golden Gate Park,ARSON,3
+Golden Gate Park,KIDNAPPING,1
+Golden Gate Park,DISORDERLY CONDUCT,1
+Golden Gate Park,SUICIDE,1
+Golden Gate Park,FORGERY/COUNTERFEITING,1
+Golden Gate Park,DRUNKENNESS,1
+Haight Ashbury,LARCENY/THEFT,659
+Haight Ashbury,NON-CRIMINAL,621
+Haight Ashbury,MISSING PERSON,435
+Haight Ashbury,OTHER OFFENSES,432
+Haight Ashbury,VEHICLE THEFT,190
+Haight Ashbury,ASSAULT,189
+Haight Ashbury,WARRANTS,176
+Haight Ashbury,BURGLARY,174
+Haight Ashbury,DRUG/NARCOTIC,173
+Haight Ashbury,VANDALISM,140
+Haight Ashbury,SUSPICIOUS OCC,94
+Haight Ashbury,FRAUD,63
+Haight Ashbury,ROBBERY,43
+Haight Ashbury,WEAPON LAWS,32
+Haight Ashbury,TRESPASS,28
+Haight Ashbury,SECONDARY CODES,27
+Haight Ashbury,RUNAWAY,26
+Haight Ashbury,"SEX OFFENSES, FORCIBLE",24
+Haight Ashbury,STOLEN PROPERTY,16
+Haight Ashbury,DISORDERLY CONDUCT,13
+Haight Ashbury,FORGERY/COUNTERFEITING,9
+Haight Ashbury,LIQUOR LAWS,8
+Haight Ashbury,DRIVING UNDER THE INFLUENCE,8
+Haight Ashbury,ARSON,7
+Haight Ashbury,RECOVERED VEHICLE,7
+Haight Ashbury,DRUNKENNESS,5
+Haight Ashbury,KIDNAPPING,3
+Haight Ashbury,EMBEZZLEMENT,2
+Haight Ashbury,SUICIDE,2
+Haight Ashbury,EXTORTION,2
+Haight Ashbury,PROSTITUTION,1
+Haight Ashbury,"SEX OFFENSES, NON FORCIBLE",1
+Inner Richmond,LARCENY/THEFT,897
+Inner Richmond,NON-CRIMINAL,519
+Inner Richmond,OTHER OFFENSES,396
+Inner Richmond,VEHICLE THEFT,221
+Inner Richmond,ASSAULT,177
+Inner Richmond,VANDALISM,174
+Inner Richmond,BURGLARY,150
+Inner Richmond,SUSPICIOUS OCC,118
+Inner Richmond,MISSING PERSON,79
+Inner Richmond,FRAUD,69
+Inner Richmond,WARRANTS,67
+Inner Richmond,ROBBERY,34
+Inner Richmond,SECONDARY CODES,31
+Inner Richmond,DRUG/NARCOTIC,29
+Inner Richmond,WEAPON LAWS,20
+Inner Richmond,TRESPASS,19
+Inner Richmond,FORGERY/COUNTERFEITING,15
+Inner Richmond,DRIVING UNDER THE INFLUENCE,15
+Inner Richmond,RECOVERED VEHICLE,14
+Inner Richmond,"SEX OFFENSES, FORCIBLE",13
+Inner Richmond,DRUNKENNESS,10
+Inner Richmond,STOLEN PROPERTY,10
+Inner Richmond,LIQUOR LAWS,7
+Inner Richmond,KIDNAPPING,4
+Inner Richmond,DISORDERLY CONDUCT,3
+Inner Richmond,ARSON,3
+Inner Richmond,EXTORTION,3
+Inner Richmond,BAD CHECKS,2
+Inner Richmond,SUICIDE,2
+Inner Richmond,EMBEZZLEMENT,2
+Inner Richmond,"SEX OFFENSES, NON FORCIBLE",2
+Inner Richmond,PROSTITUTION,2
+Inner Richmond,FAMILY OFFENSES,2
+Inner Richmond,LOITERING,1
+Inner Sunset,LARCENY/THEFT,425
+Inner Sunset,OTHER OFFENSES,252
+Inner Sunset,NON-CRIMINAL,215
+Inner Sunset,BURGLARY,135
+Inner Sunset,ASSAULT,134
+Inner Sunset,MISSING PERSON,105
+Inner Sunset,VEHICLE THEFT,92
+Inner Sunset,VANDALISM,78
+Inner Sunset,SUSPICIOUS OCC,54
+Inner Sunset,WARRANTS,37
+Inner Sunset,FRAUD,36
+Inner Sunset,TRESPASS,32
+Inner Sunset,ROBBERY,22
+Inner Sunset,SECONDARY CODES,15
+Inner Sunset,DRUG/NARCOTIC,13
+Inner Sunset,"SEX OFFENSES, FORCIBLE",10
+Inner Sunset,WEAPON LAWS,9
+Inner Sunset,STOLEN PROPERTY,8
+Inner Sunset,DRUNKENNESS,7
+Inner Sunset,DRIVING UNDER THE INFLUENCE,6
+Inner Sunset,DISORDERLY CONDUCT,6
+Inner Sunset,FORGERY/COUNTERFEITING,6
+Inner Sunset,RECOVERED VEHICLE,5
+Inner Sunset,KIDNAPPING,3
+Inner Sunset,EMBEZZLEMENT,3
+Inner Sunset,ARSON,3
+Inner Sunset,BRIBERY,3
+Inner Sunset,LIQUOR LAWS,2
+Inner Sunset,BAD CHECKS,1
+Lakeshore,LARCENY/THEFT,789
+Lakeshore,OTHER OFFENSES,438
+Lakeshore,NON-CRIMINAL,258
+Lakeshore,BURGLARY,150
+Lakeshore,VANDALISM,149
+Lakeshore,ASSAULT,147
+Lakeshore,PROSTITUTION,102
+Lakeshore,VEHICLE THEFT,96
+Lakeshore,WARRANTS,80
+Lakeshore,FRAUD,72
+Lakeshore,SUSPICIOUS OCC,63
+Lakeshore,MISSING PERSON,45
+Lakeshore,ROBBERY,41
+Lakeshore,TRESPASS,33
+Lakeshore,SECONDARY CODES,32
+Lakeshore,DRUG/NARCOTIC,30
+Lakeshore,"SEX OFFENSES, FORCIBLE",22
+Lakeshore,WEAPON LAWS,12
+Lakeshore,DRIVING UNDER THE INFLUENCE,12
+Lakeshore,STOLEN PROPERTY,11
+Lakeshore,DRUNKENNESS,11
+Lakeshore,RECOVERED VEHICLE,10
+Lakeshore,LIQUOR LAWS,8
+Lakeshore,EMBEZZLEMENT,8
+Lakeshore,FORGERY/COUNTERFEITING,6
+Lakeshore,ARSON,4
+Lakeshore,EXTORTION,3
+Lakeshore,KIDNAPPING,3
+Lakeshore,"SEX OFFENSES, NON FORCIBLE",3
+Lakeshore,BAD CHECKS,2
+Lakeshore,DISORDERLY CONDUCT,2
+Lakeshore,FAMILY OFFENSES,1
+Lakeshore,SUICIDE,1
+Lakeshore,LOITERING,1
+Lakeshore,TREA,1
+Marina,LARCENY/THEFT,1360
+Marina,OTHER OFFENSES,339
+Marina,NON-CRIMINAL,323
+Marina,ASSAULT,197
+Marina,VANDALISM,196
+Marina,BURGLARY,184
+Marina,VEHICLE THEFT,139
+Marina,WARRANTS,91
+Marina,SUSPICIOUS OCC,90
+Marina,FRAUD,64
+Marina,ROBBERY,48
+Marina,MISSING PERSON,44
+Marina,DRUG/NARCOTIC,36
+Marina,STOLEN PROPERTY,26
+Marina,TRESPASS,23
+Marina,SECONDARY CODES,23
+Marina,FORGERY/COUNTERFEITING,18
+Marina,DRUNKENNESS,14
+Marina,"SEX OFFENSES, FORCIBLE",12
+Marina,WEAPON LAWS,12
+Marina,DISORDERLY CONDUCT,9
+Marina,RECOVERED VEHICLE,8
+Marina,DRIVING UNDER THE INFLUENCE,8
+Marina,ARSON,4
+Marina,KIDNAPPING,4
+Marina,SUICIDE,3
+Marina,LOITERING,3
+Marina,LIQUOR LAWS,1
+Marina,BRIBERY,1
+Marina,"SEX OFFENSES, NON FORCIBLE",1
+Mission,OTHER OFFENSES,2480
+Mission,LARCENY/THEFT,2441
+Mission,NON-CRIMINAL,1648
+Mission,ASSAULT,1643
+Mission,WARRANTS,892
+Mission,VANDALISM,841
+Mission,SUSPICIOUS OCC,746
+Mission,VEHICLE THEFT,660
+Mission,DRUG/NARCOTIC,555
+Mission,BURGLARY,531
+Mission,MISSING PERSON,442
+Mission,ROBBERY,440
+Mission,TRESPASS,347
+Mission,WEAPON LAWS,234
+Mission,FRAUD,219
+Mission,SECONDARY CODES,176
+Mission,"SEX OFFENSES, FORCIBLE",153
+Mission,DISORDERLY CONDUCT,150
+Mission,STOLEN PROPERTY,88
+Mission,PROSTITUTION,86
+Mission,DRUNKENNESS,80
+Mission,FORGERY/COUNTERFEITING,72
+Mission,DRIVING UNDER THE INFLUENCE,52
+Mission,RECOVERED VEHICLE,48
+Mission,ARSON,41
+Mission,KIDNAPPING,29
+Mission,LIQUOR LAWS,27
+Mission,EMBEZZLEMENT,20
+Mission,FAMILY OFFENSES,13
+Mission,BRIBERY,9
+Mission,EXTORTION,7
+Mission,LOITERING,6
+Mission,RUNAWAY,5
+Mission,"SEX OFFENSES, NON FORCIBLE",3
+Mission,GAMBLING,2
+Mission,BAD CHECKS,2
+Mission,SUICIDE,2
+Nob Hill,LARCENY/THEFT,782
+Nob Hill,OTHER OFFENSES,348
+Nob Hill,NON-CRIMINAL,341
+Nob Hill,ASSAULT,211
+Nob Hill,VANDALISM,198
+Nob Hill,BURGLARY,129
+Nob Hill,VEHICLE THEFT,119
+Nob Hill,PROSTITUTION,111
+Nob Hill,SUSPICIOUS OCC,92
+Nob Hill,WARRANTS,77
+Nob Hill,TRESPASS,63
+Nob Hill,ROBBERY,63
+Nob Hill,MISSING PERSON,62
+Nob Hill,FRAUD,51
+Nob Hill,DRUG/NARCOTIC,50
+Nob Hill,DISORDERLY CONDUCT,29
+Nob Hill,SECONDARY CODES,26
+Nob Hill,STOLEN PROPERTY,19
+Nob Hill,"SEX OFFENSES, FORCIBLE",16
+Nob Hill,FORGERY/COUNTERFEITING,15
+Nob Hill,WEAPON LAWS,15
+Nob Hill,RECOVERED VEHICLE,14
+Nob Hill,DRUNKENNESS,12
+Nob Hill,DRIVING UNDER THE INFLUENCE,9
+Nob Hill,ARSON,3
+Nob Hill,KIDNAPPING,2
+Nob Hill,BRIBERY,2
+Nob Hill,SUICIDE,2
+Nob Hill,EXTORTION,1
+Noe Valley,LARCENY/THEFT,283
+Noe Valley,OTHER OFFENSES,167
+Noe Valley,VEHICLE THEFT,159
+Noe Valley,NON-CRIMINAL,144
+Noe Valley,BURGLARY,136
+Noe Valley,ASSAULT,89
+Noe Valley,VANDALISM,65
+Noe Valley,SUSPICIOUS OCC,57
+Noe Valley,FRAUD,29
+Noe Valley,MISSING PERSON,21
+Noe Valley,ROBBERY,19
+Noe Valley,SECONDARY CODES,17
+Noe Valley,WARRANTS,16
+Noe Valley,WEAPON LAWS,12
+Noe Valley,DRUG/NARCOTIC,9
+Noe Valley,TRESPASS,8
+Noe Valley,RECOVERED VEHICLE,6
+Noe Valley,DRIVING UNDER THE INFLUENCE,5
+Noe Valley,"SEX OFFENSES, FORCIBLE",5
+Noe Valley,FORGERY/COUNTERFEITING,3
+Noe Valley,STOLEN PROPERTY,2
+Noe Valley,LIQUOR LAWS,2
+Noe Valley,KIDNAPPING,2
+Noe Valley,SUICIDE,2
+Noe Valley,BRIBERY,1
+North Beach,LARCENY/THEFT,2285
+North Beach,NON-CRIMINAL,604
+North Beach,OTHER OFFENSES,495
+North Beach,VANDALISM,345
+North Beach,ASSAULT,306
+North Beach,SUSPICIOUS OCC,143
+North Beach,BURGLARY,138
+North Beach,WARRANTS,124
+North Beach,VEHICLE THEFT,113
+North Beach,FRAUD,99
+North Beach,ROBBERY,80
+North Beach,STOLEN PROPERTY,53
+North Beach,DRUG/NARCOTIC,52
+North Beach,MISSING PERSON,51
+North Beach,WEAPON LAWS,43
+North Beach,SECONDARY CODES,40
+North Beach,TRESPASS,29
+North Beach,DRUNKENNESS,17
+North Beach,FORGERY/COUNTERFEITING,15
+North Beach,"SEX OFFENSES, FORCIBLE",14
+North Beach,DRIVING UNDER THE INFLUENCE,11
+North Beach,DISORDERLY CONDUCT,11
+North Beach,RECOVERED VEHICLE,10
+North Beach,LIQUOR LAWS,7
+North Beach,EMBEZZLEMENT,5
+North Beach,ARSON,3
+North Beach,LOITERING,3
+North Beach,SUICIDE,3
+North Beach,KIDNAPPING,3
+North Beach,BRIBERY,1
+North Beach,RUNAWAY,1
+North Beach,GAMBLING,1
+Ocean View,OTHER OFFENSES,352
+Ocean View,LARCENY/THEFT,306
+Ocean View,NON-CRIMINAL,242
+Ocean View,ASSAULT,237
+Ocean View,VANDALISM,129
+Ocean View,BURGLARY,119
+Ocean View,VEHICLE THEFT,116
+Ocean View,SUSPICIOUS OCC,84
+Ocean View,MISSING PERSON,65
+Ocean View,WARRANTS,64
+Ocean View,SECONDARY CODES,41
+Ocean View,ROBBERY,39
+Ocean View,FRAUD,33
+Ocean View,WEAPON LAWS,31
+Ocean View,DRUG/NARCOTIC,22
+Ocean View,TRESPASS,20
+Ocean View,RECOVERED VEHICLE,13
+Ocean View,"SEX OFFENSES, FORCIBLE",10
+Ocean View,STOLEN PROPERTY,9
+Ocean View,KIDNAPPING,9
+Ocean View,DRUNKENNESS,7
+Ocean View,DRIVING UNDER THE INFLUENCE,6
+Ocean View,ARSON,4
+Ocean View,FORGERY/COUNTERFEITING,3
+Ocean View,LIQUOR LAWS,3
+Ocean View,EXTORTION,3
+Ocean View,FAMILY OFFENSES,2
+Ocean View,EMBEZZLEMENT,2
+Ocean View,SUICIDE,1
+Ocean View,DISORDERLY CONDUCT,1
+Ocean View,BAD CHECKS,1
+Ocean View,RUNAWAY,1
+Ocean View,BRIBERY,1
+Ocean View,"SEX OFFENSES, NON FORCIBLE",1
+Outer Mission,OTHER OFFENSES,554
+Outer Mission,LARCENY/THEFT,401
+Outer Mission,ASSAULT,383
+Outer Mission,NON-CRIMINAL,320
+Outer Mission,VEHICLE THEFT,193
+Outer Mission,VANDALISM,159
+Outer Mission,SUSPICIOUS OCC,134
+Outer Mission,MISSING PERSON,113
+Outer Mission,BURGLARY,80
+Outer Mission,ROBBERY,79
+Outer Mission,WARRANTS,79
+Outer Mission,SECONDARY CODES,49
+Outer Mission,DRUG/NARCOTIC,47
+Outer Mission,WEAPON LAWS,38
+Outer Mission,FRAUD,31
+Outer Mission,"SEX OFFENSES, FORCIBLE",22
+Outer Mission,FORGERY/COUNTERFEITING,16
+Outer Mission,TRESPASS,16
+Outer Mission,RECOVERED VEHICLE,14
+Outer Mission,STOLEN PROPERTY,12
+Outer Mission,KIDNAPPING,9
+Outer Mission,DRIVING UNDER THE INFLUENCE,7
+Outer Mission,ARSON,6
+Outer Mission,DRUNKENNESS,6
+Outer Mission,SUICIDE,6
+Outer Mission,DISORDERLY CONDUCT,3
+Outer Mission,GAMBLING,3
+Outer Mission,LIQUOR LAWS,2
+Outer Mission,"SEX OFFENSES, NON FORCIBLE",2
+Outer Mission,EXTORTION,2
+Outer Mission,BRIBERY,2
+Outer Mission,RUNAWAY,2
+Outer Mission,BAD CHECKS,1
+Outer Mission,PORNOGRAPHY/OBSCENE MAT,1
+Outer Mission,EMBEZZLEMENT,1
+Outer Mission,LOITERING,1
+Outer Richmond,LARCENY/THEFT,580
+Outer Richmond,NON-CRIMINAL,317
+Outer Richmond,OTHER OFFENSES,284
+Outer Richmond,ASSAULT,151
+Outer Richmond,VEHICLE THEFT,142
+Outer Richmond,VANDALISM,134
+Outer Richmond,BURGLARY,122
+Outer Richmond,SUSPICIOUS OCC,101
+Outer Richmond,MISSING PERSON,77
+Outer Richmond,SECONDARY CODES,64
+Outer Richmond,FRAUD,59
+Outer Richmond,WARRANTS,44
+Outer Richmond,ROBBERY,30
+Outer Richmond,WEAPON LAWS,21
+Outer Richmond,DRUG/NARCOTIC,20
+Outer Richmond,STOLEN PROPERTY,18
+Outer Richmond,"SEX OFFENSES, FORCIBLE",16
+Outer Richmond,TRESPASS,13
+Outer Richmond,DRIVING UNDER THE INFLUENCE,10
+Outer Richmond,FORGERY/COUNTERFEITING,10
+Outer Richmond,RECOVERED VEHICLE,9
+Outer Richmond,DISORDERLY CONDUCT,6
+Outer Richmond,ARSON,6
+Outer Richmond,RUNAWAY,5
+Outer Richmond,DRUNKENNESS,5
+Outer Richmond,PROSTITUTION,2
+Outer Richmond,KIDNAPPING,2
+Outer Richmond,EXTORTION,2
+Outer Richmond,EMBEZZLEMENT,2
+Outer Richmond,FAMILY OFFENSES,1
+Outer Richmond,BAD CHECKS,1
+Outer Sunset,LARCENY/THEFT,563
+Outer Sunset,OTHER OFFENSES,385
+Outer Sunset,NON-CRIMINAL,332
+Outer Sunset,ASSAULT,235
+Outer Sunset,BURGLARY,170
+Outer Sunset,VANDALISM,154
+Outer Sunset,SUSPICIOUS OCC,139
+Outer Sunset,VEHICLE THEFT,138
+Outer Sunset,SECONDARY CODES,75
+Outer Sunset,FRAUD,68
+Outer Sunset,MISSING PERSON,64
+Outer Sunset,WARRANTS,53
+Outer Sunset,"SEX OFFENSES, FORCIBLE",32
+Outer Sunset,ROBBERY,31
+Outer Sunset,WEAPON LAWS,29
+Outer Sunset,TRESPASS,23
+Outer Sunset,DRUG/NARCOTIC,19
+Outer Sunset,STOLEN PROPERTY,13
+Outer Sunset,DRUNKENNESS,12
+Outer Sunset,RECOVERED VEHICLE,12
+Outer Sunset,"SEX OFFENSES, NON FORCIBLE",8
+Outer Sunset,PROSTITUTION,8
+Outer Sunset,DRIVING UNDER THE INFLUENCE,8
+Outer Sunset,FORGERY/COUNTERFEITING,7
+Outer Sunset,DISORDERLY CONDUCT,4
+Outer Sunset,LIQUOR LAWS,4
+Outer Sunset,KIDNAPPING,3
+Outer Sunset,ARSON,3
+Outer Sunset,EXTORTION,3
+Outer Sunset,BAD CHECKS,2
+Outer Sunset,SUICIDE,2
+Outer Sunset,FAMILY OFFENSES,2
+Outer Sunset,EMBEZZLEMENT,2
+Outer Sunset,PORNOGRAPHY/OBSCENE MAT,1
+Outer Sunset,RUNAWAY,1
+Pacific Heights,LARCENY/THEFT,611
+Pacific Heights,OTHER OFFENSES,222
+Pacific Heights,NON-CRIMINAL,192
+Pacific Heights,BURGLARY,133
+Pacific Heights,VEHICLE THEFT,120
+Pacific Heights,VANDALISM,106
+Pacific Heights,ASSAULT,78
+Pacific Heights,SUSPICIOUS OCC,67
+Pacific Heights,FRAUD,56
+Pacific Heights,MISSING PERSON,35
+Pacific Heights,ROBBERY,32
+Pacific Heights,WARRANTS,31
+Pacific Heights,DRUG/NARCOTIC,28
+Pacific Heights,TRESPASS,21
+Pacific Heights,STOLEN PROPERTY,16
+Pacific Heights,SECONDARY CODES,14
+Pacific Heights,FORGERY/COUNTERFEITING,14
+Pacific Heights,RECOVERED VEHICLE,11
+Pacific Heights,"SEX OFFENSES, FORCIBLE",10
+Pacific Heights,WEAPON LAWS,10
+Pacific Heights,DRUNKENNESS,3
+Pacific Heights,EMBEZZLEMENT,3
+Pacific Heights,SUICIDE,3
+Pacific Heights,LOITERING,2
+Pacific Heights,DISORDERLY CONDUCT,1
+Pacific Heights,FAMILY OFFENSES,1
+Pacific Heights,ARSON,1
+Parkside,LARCENY/THEFT,336
+Parkside,NON-CRIMINAL,315
+Parkside,OTHER OFFENSES,272
+Parkside,MISSING PERSON,201
+Parkside,ASSAULT,138
+Parkside,VANDALISM,106
+Parkside,VEHICLE THEFT,81
+Parkside,SUSPICIOUS OCC,72
+Parkside,BURGLARY,72
+Parkside,FRAUD,53
+Parkside,SECONDARY CODES,45
+Parkside,ROBBERY,30
+Parkside,WARRANTS,29
+Parkside,RUNAWAY,25
+Parkside,DRUG/NARCOTIC,17
+Parkside,TRESPASS,13
+Parkside,WEAPON LAWS,13
+Parkside,FORGERY/COUNTERFEITING,13
+Parkside,DRIVING UNDER THE INFLUENCE,8
+Parkside,"SEX OFFENSES, FORCIBLE",7
+Parkside,STOLEN PROPERTY,7
+Parkside,RECOVERED VEHICLE,6
+Parkside,ARSON,6
+Parkside,DRUNKENNESS,5
+Parkside,PROSTITUTION,4
+Parkside,LIQUOR LAWS,2
+Parkside,DISORDERLY CONDUCT,2
+Parkside,EXTORTION,1
+Parkside,FAMILY OFFENSES,1
+Potrero Hill,LARCENY/THEFT,1094
+Potrero Hill,OTHER OFFENSES,388
+Potrero Hill,VANDALISM,355
+Potrero Hill,NON-CRIMINAL,278
+Potrero Hill,ASSAULT,241
+Potrero Hill,VEHICLE THEFT,231
+Potrero Hill,BURGLARY,188
+Potrero Hill,SUSPICIOUS OCC,121
+Potrero Hill,WARRANTS,105
+Potrero Hill,DRUG/NARCOTIC,54
+Potrero Hill,ROBBERY,52
+Potrero Hill,MISSING PERSON,47
+Potrero Hill,WEAPON LAWS,44
+Potrero Hill,FRAUD,36
+Potrero Hill,SECONDARY CODES,35
+Potrero Hill,TRESPASS,34
+Potrero Hill,RECOVERED VEHICLE,30
+Potrero Hill,STOLEN PROPERTY,16
+Potrero Hill,"SEX OFFENSES, FORCIBLE",15
+Potrero Hill,ARSON,13
+Potrero Hill,DISORDERLY CONDUCT,11
+Potrero Hill,DRIVING UNDER THE INFLUENCE,7
+Potrero Hill,KIDNAPPING,7
+Potrero Hill,FORGERY/COUNTERFEITING,6
+Potrero Hill,FAMILY OFFENSES,4
+Potrero Hill,BRIBERY,4
+Potrero Hill,RUNAWAY,3
+Potrero Hill,EMBEZZLEMENT,2
+Potrero Hill,DRUNKENNESS,2
+Potrero Hill,LOITERING,1
+Potrero Hill,EXTORTION,1
+Presidio,LARCENY/THEFT,8
+Presidio,VEHICLE THEFT,2
+Presidio,MISSING PERSON,2
+Presidio,OTHER OFFENSES,1
+Presidio,VANDALISM,1
+Presidio,BURGLARY,1
+Presidio,FORGERY/COUNTERFEITING,1
+Presidio,SUSPICIOUS OCC,1
+Presidio,WARRANTS,1
+Presidio,NON-CRIMINAL,1
+Presidio Heights,LARCENY/THEFT,210
+Presidio Heights,NON-CRIMINAL,97
+Presidio Heights,OTHER OFFENSES,81
+Presidio Heights,SUSPICIOUS OCC,44
+Presidio Heights,VANDALISM,39
+Presidio Heights,BURGLARY,39
+Presidio Heights,ASSAULT,38
+Presidio Heights,VEHICLE THEFT,37
+Presidio Heights,MISSING PERSON,32
+Presidio Heights,FRAUD,22
+Presidio Heights,WARRANTS,13
+Presidio Heights,SECONDARY CODES,12
+Presidio Heights,FORGERY/COUNTERFEITING,11
+Presidio Heights,ROBBERY,7
+Presidio Heights,"SEX OFFENSES, FORCIBLE",4
+Presidio Heights,TRESPASS,4
+Presidio Heights,STOLEN PROPERTY,3
+Presidio Heights,RUNAWAY,3
+Presidio Heights,RECOVERED VEHICLE,2
+Presidio Heights,DISORDERLY CONDUCT,2
+Presidio Heights,DRUG/NARCOTIC,2
+Presidio Heights,DRIVING UNDER THE INFLUENCE,2
+Presidio Heights,WEAPON LAWS,2
+Presidio Heights,BAD CHECKS,2
+Presidio Heights,EXTORTION,1
+Russian Hill,LARCENY/THEFT,1239
+Russian Hill,NON-CRIMINAL,446
+Russian Hill,OTHER OFFENSES,351
+Russian Hill,VANDALISM,204
+Russian Hill,ASSAULT,154
+Russian Hill,VEHICLE THEFT,118
+Russian Hill,BURGLARY,95
+Russian Hill,SUSPICIOUS OCC,84
+Russian Hill,WARRANTS,59
+Russian Hill,ROBBERY,57
+Russian Hill,FRAUD,47
+Russian Hill,MISSING PERSON,47
+Russian Hill,SECONDARY CODES,33
+Russian Hill,DRUG/NARCOTIC,28
+Russian Hill,STOLEN PROPERTY,27
+Russian Hill,TRESPASS,21
+Russian Hill,WEAPON LAWS,18
+Russian Hill,"SEX OFFENSES, FORCIBLE",16
+Russian Hill,RECOVERED VEHICLE,12
+Russian Hill,DRIVING UNDER THE INFLUENCE,8
+Russian Hill,FORGERY/COUNTERFEITING,6
+Russian Hill,DRUNKENNESS,6
+Russian Hill,SUICIDE,4
+Russian Hill,KIDNAPPING,4
+Russian Hill,RUNAWAY,2
+Russian Hill,DISORDERLY CONDUCT,2
+Russian Hill,ARSON,2
+Russian Hill,LIQUOR LAWS,1
+Russian Hill,EXTORTION,1
+Russian Hill,BAD CHECKS,1
+Seacliff,LARCENY/THEFT,424
+Seacliff,NON-CRIMINAL,42
+Seacliff,VANDALISM,26
+Seacliff,SUSPICIOUS OCC,24
+Seacliff,OTHER OFFENSES,18
+Seacliff,VEHICLE THEFT,14
+Seacliff,FRAUD,11
+Seacliff,BURGLARY,11
+Seacliff,WARRANTS,6
+Seacliff,MISSING PERSON,5
+Seacliff,ASSAULT,5
+Seacliff,WEAPON LAWS,4
+Seacliff,ROBBERY,3
+Seacliff,DRUG/NARCOTIC,3
+Seacliff,STOLEN PROPERTY,2
+Seacliff,ARSON,1
+Seacliff,RECOVERED VEHICLE,1
+Seacliff,SECONDARY CODES,1
+Seacliff,FORGERY/COUNTERFEITING,1
+Seacliff,TRESPASS,1
+South of Market,LARCENY/THEFT,7460
+South of Market,OTHER OFFENSES,2687
+South of Market,NON-CRIMINAL,2639
+South of Market,ASSAULT,1757
+South of Market,VANDALISM,1207
+South of Market,WARRANTS,1068
+South of Market,SUSPICIOUS OCC,769
+South of Market,DRUG/NARCOTIC,742
+South of Market,BURGLARY,740
+South of Market,MISSING PERSON,554
+South of Market,VEHICLE THEFT,549
+South of Market,ROBBERY,396
+South of Market,FRAUD,356
+South of Market,TRESPASS,333
+South of Market,WEAPON LAWS,231
+South of Market,SECONDARY CODES,212
+South of Market,STOLEN PROPERTY,154
+South of Market,"SEX OFFENSES, FORCIBLE",145
+South of Market,DISORDERLY CONDUCT,138
+South of Market,RECOVERED VEHICLE,92
+South of Market,FORGERY/COUNTERFEITING,79
+South of Market,DRUNKENNESS,71
+South of Market,DRIVING UNDER THE INFLUENCE,54
+South of Market,ARSON,28
+South of Market,KIDNAPPING,26
+South of Market,EMBEZZLEMENT,26
+South of Market,LIQUOR LAWS,19
+South of Market,EXTORTION,9
+South of Market,RUNAWAY,9
+South of Market,"SEX OFFENSES, NON FORCIBLE",8
+South of Market,PROSTITUTION,7
+South of Market,LOITERING,7
+South of Market,BRIBERY,6
+South of Market,SUICIDE,4
+South of Market,GAMBLING,4
+South of Market,BAD CHECKS,4
+South of Market,FAMILY OFFENSES,3
+Treasure Island/YBI,LARCENY/THEFT,67
+Treasure Island/YBI,NON-CRIMINAL,33
+Treasure Island/YBI,MISSING PERSON,28
+Treasure Island/YBI,ASSAULT,23
+Treasure Island/YBI,OTHER OFFENSES,22
+Treasure Island/YBI,VANDALISM,19
+Treasure Island/YBI,SUSPICIOUS OCC,12
+Treasure Island/YBI,BURGLARY,11
+Treasure Island/YBI,VEHICLE THEFT,10
+Treasure Island/YBI,TRESPASS,7
+Treasure Island/YBI,RECOVERED VEHICLE,6
+Treasure Island/YBI,FRAUD,5
+Treasure Island/YBI,SECONDARY CODES,3
+Treasure Island/YBI,WARRANTS,2
+Treasure Island/YBI,WEAPON LAWS,2
+Treasure Island/YBI,ROBBERY,2
+Treasure Island/YBI,"SEX OFFENSES, FORCIBLE",2
+Treasure Island/YBI,KIDNAPPING,1
+Treasure Island/YBI,DRIVING UNDER THE INFLUENCE,1
+Treasure Island/YBI,ARSON,1
+Treasure Island/YBI,FAMILY OFFENSES,1
+Twin Peaks,LARCENY/THEFT,204
+Twin Peaks,NON-CRIMINAL,82
+Twin Peaks,OTHER OFFENSES,71
+Twin Peaks,ASSAULT,39
+Twin Peaks,VANDALISM,35
+Twin Peaks,BURGLARY,29
+Twin Peaks,VEHICLE THEFT,24
+Twin Peaks,SUSPICIOUS OCC,23
+Twin Peaks,MISSING PERSON,21
+Twin Peaks,FRAUD,14
+Twin Peaks,SECONDARY CODES,9
+Twin Peaks,ROBBERY,9
+Twin Peaks,DRUG/NARCOTIC,7
+Twin Peaks,"SEX OFFENSES, FORCIBLE",5
+Twin Peaks,DRIVING UNDER THE INFLUENCE,3
+Twin Peaks,DRUNKENNESS,2
+Twin Peaks,WARRANTS,2
+Twin Peaks,RECOVERED VEHICLE,2
+Twin Peaks,BAD CHECKS,2
+Twin Peaks,RUNAWAY,2
+Twin Peaks,STOLEN PROPERTY,1
+Twin Peaks,FORGERY/COUNTERFEITING,1
+Twin Peaks,WEAPON LAWS,1
+Twin Peaks,SUICIDE,1
+Visitacion Valley,ASSAULT,367
+Visitacion Valley,OTHER OFFENSES,289
+Visitacion Valley,NON-CRIMINAL,240
+Visitacion Valley,LARCENY/THEFT,201
+Visitacion Valley,VANDALISM,194
+Visitacion Valley,VEHICLE THEFT,138
+Visitacion Valley,SUSPICIOUS OCC,112
+Visitacion Valley,MISSING PERSON,79
+Visitacion Valley,SECONDARY CODES,71
+Visitacion Valley,WARRANTS,68
+Visitacion Valley,BURGLARY,64
+Visitacion Valley,ROBBERY,58
+Visitacion Valley,WEAPON LAWS,45
+Visitacion Valley,DRUG/NARCOTIC,38
+Visitacion Valley,RECOVERED VEHICLE,33
+Visitacion Valley,FRAUD,23
+Visitacion Valley,"SEX OFFENSES, FORCIBLE",19
+Visitacion Valley,KIDNAPPING,12
+Visitacion Valley,DRIVING UNDER THE INFLUENCE,9
+Visitacion Valley,STOLEN PROPERTY,9
+Visitacion Valley,TRESPASS,9
+Visitacion Valley,PROSTITUTION,8
+Visitacion Valley,ARSON,8
+Visitacion Valley,FORGERY/COUNTERFEITING,7
+Visitacion Valley,RUNAWAY,6
+Visitacion Valley,DISORDERLY CONDUCT,6
+Visitacion Valley,DRUNKENNESS,5
+Visitacion Valley,FAMILY OFFENSES,4
+Visitacion Valley,SUICIDE,3
+Visitacion Valley,BRIBERY,2
+Visitacion Valley,LIQUOR LAWS,1
+Visitacion Valley,EXTORTION,1
+Visitacion Valley,LOITERING,1
+West of Twin Peaks,LARCENY/THEFT,394
+West of Twin Peaks,OTHER OFFENSES,226
+West of Twin Peaks,NON-CRIMINAL,169
+West of Twin Peaks,BURGLARY,150
+West of Twin Peaks,ASSAULT,108
+West of Twin Peaks,VEHICLE THEFT,76
+West of Twin Peaks,SUSPICIOUS OCC,68
+West of Twin Peaks,VANDALISM,53
+West of Twin Peaks,FRAUD,45
+West of Twin Peaks,SECONDARY CODES,34
+West of Twin Peaks,MISSING PERSON,24
+West of Twin Peaks,ROBBERY,23
+West of Twin Peaks,WARRANTS,23
+West of Twin Peaks,TRESPASS,20
+West of Twin Peaks,WEAPON LAWS,18
+West of Twin Peaks,STOLEN PROPERTY,11
+West of Twin Peaks,DRIVING UNDER THE INFLUENCE,11
+West of Twin Peaks,DRUG/NARCOTIC,11
+West of Twin Peaks,"SEX OFFENSES, FORCIBLE",11
+West of Twin Peaks,RECOVERED VEHICLE,8
+West of Twin Peaks,DRUNKENNESS,7
+West of Twin Peaks,FORGERY/COUNTERFEITING,6
+West of Twin Peaks,DISORDERLY CONDUCT,4
+West of Twin Peaks,PROSTITUTION,2
+West of Twin Peaks,"SEX OFFENSES, NON FORCIBLE",2
+West of Twin Peaks,LIQUOR LAWS,2
+West of Twin Peaks,FAMILY OFFENSES,1
+West of Twin Peaks,SUICIDE,1
+West of Twin Peaks,ARSON,1
+West of Twin Peaks,KIDNAPPING,1
+Western Addition,LARCENY/THEFT,4042
+Western Addition,OTHER OFFENSES,1119
+Western Addition,NON-CRIMINAL,1044
+Western Addition,ASSAULT,761
+Western Addition,VANDALISM,681
+Western Addition,BURGLARY,422
+Western Addition,VEHICLE THEFT,404
+Western Addition,SUSPICIOUS OCC,287
+Western Addition,MISSING PERSON,265
+Western Addition,WARRANTS,252
+Western Addition,FRAUD,188
+Western Addition,ROBBERY,186
+Western Addition,DRUG/NARCOTIC,142
+Western Addition,SECONDARY CODES,142
+Western Addition,TRESPASS,106
+Western Addition,WEAPON LAWS,80
+Western Addition,STOLEN PROPERTY,45
+Western Addition,FORGERY/COUNTERFEITING,43
+Western Addition,"SEX OFFENSES, FORCIBLE",40
+Western Addition,RECOVERED VEHICLE,37
+Western Addition,DISORDERLY CONDUCT,29
+Western Addition,DRUNKENNESS,20
+Western Addition,DRIVING UNDER THE INFLUENCE,19
+Western Addition,ARSON,15
+Western Addition,KIDNAPPING,14
+Western Addition,RUNAWAY,8
+Western Addition,SUICIDE,6
+Western Addition,EMBEZZLEMENT,6
+Western Addition,BRIBERY,4
+Western Addition,LIQUOR LAWS,4
+Western Addition,PROSTITUTION,3
+Western Addition,FAMILY OFFENSES,3
+Western Addition,BAD CHECKS,3
+Western Addition,EXTORTION,2
+Western Addition,"SEX OFFENSES, NON FORCIBLE",2
+Western Addition,LOITERING,1
+hood,Category,1
